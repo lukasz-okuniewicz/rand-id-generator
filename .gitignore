@@ -29,3 +29,5 @@ node_modules
 alternative-tmp
 alternative
 .nyc_output
+
+/lib/
